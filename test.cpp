@@ -14,4 +14,4 @@ int main(){
 //Changes made by person A1
 //changes made in tespull..
 //added one more change in tespull.s
-//new features added by pratt
+//features added by prachi..
