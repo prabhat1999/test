@@ -7,7 +7,7 @@ int main(){
   int a = 25; //made by A1
   cout<< "Enter your name and age"<<endl;
   cin>> name >> age;
-  cout<< "Your name is "<<name<<" and you are "<<age<<" years old";
+  cout<< "Your name is "<<name<<" and you are "<<age<<" years old"<<"hello";
 
   return 0;
 }
